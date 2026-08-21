@@ -1,6 +1,6 @@
 # <img src="https://issuepay.app/images/icon_issuepay.png" width="28" height="28" align="middle"> 2026 Cyber Security Internships
 
-Auto-updated daily from live job postings. 25 open roles as of 2026-08-20 UTC.
+Auto-updated daily from live job postings. 25 open roles as of 2026-08-21 UTC.
 
 Want these matched to your resume automatically? [Try IssuePay's Career Agent free](https://issuepay.app/jobs/entry-level?ref=github_2026-Cyber-Security-Internship).
 
