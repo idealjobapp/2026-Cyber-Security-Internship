@@ -1,6 +1,6 @@
 # <img src="https://idealjob.app/images/icon_idealjob.png" width="32" height="32" align="absmiddle"> 2026 Cyber Security Internships
 
-Auto-updated daily from live job postings. 31 open roles as of 2026-09-02 UTC.
+Auto-updated daily from live job postings. 31 open roles as of 2026-09-03 UTC.
 
 Want these matched to your resume automatically? [Try IdealJob's Career Agent free](https://idealjob.app/jobs/entry-level?ref=github_2026-Cyber-Security-Internship).
 
