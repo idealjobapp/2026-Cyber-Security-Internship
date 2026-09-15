@@ -1,6 +1,6 @@
 # <img src="https://idealjob.app/images/icon_idealjob.png" width="32" height="32" align="absmiddle"> 2026 Cyber Security Internship Roles
 
-Auto-updated daily from live job postings. 11 open roles as of 2026-09-14 UTC.
+Auto-updated daily from live job postings. 11 open roles as of 2026-09-15 UTC.
 
 Want these matched to your resume automatically? [Try IdealJob's Career Agent free](https://idealjob.app/jobs/entry-level?ref=github_2026-Cyber-Security-Internship).
 
@@ -15,5 +15,5 @@ Want these matched to your resume automatically? [Try IdealJob's Career Agent fr
 | <img src="https://img.logo.dev/tencent.com?token=pk_efYn5k8yT5StJVLg1Tp6WQ" width="20" height="20" align="absmiddle"> Tencent | Cyber Security Intern | United Kingdom-London | — | [Apply](https://idealjob.app/out/3597680b-9b5a-412f-9870-97984a9cc5a1?ref=github_2026-Cyber-Security-Internship) |
 | <img src="https://cdn-images.himalayas.app/2yuz2telkvqyb0dbopo8j6w4jd16" width="20" height="20" align="absmiddle"> Cisco | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | — | [Apply](https://idealjob.app/out/58ba793b-73cd-4347-9726-f8299fa069a9?ref=github_2026-Cyber-Security-Internship) |
 | <img src="https://img.logo.dev/palantir.com?token=pk_efYn5k8yT5StJVLg1Tp6WQ" width="20" height="20" align="absmiddle"> Palantir | Information Security Engineer, Internship | New York, NY | — | [Apply](https://idealjob.app/out/b59d2d5b-d73f-40e0-af02-781b656036fb?ref=github_2026-Cyber-Security-Internship) |
-| <img src="https://cdn-images.himalayas.app/fv4n8xx8m9xoz0m3dtbwq3jig0ps" width="20" height="20" align="absmiddle"> Palo Alto Networks | Intern - Security Researcher - PhD Pipline | Office - USA - CA - Headquarters | — | [Apply](https://idealjob.app/out/66155587-1e2b-4c24-a998-b4d4dde3e713?ref=github_2026-Cyber-Security-Internship) |
 | <img src="https://cdn-images.himalayas.app/fv4n8xx8m9xoz0m3dtbwq3jig0ps" width="20" height="20" align="absmiddle"> Palo Alto Networks | Intern - GRC Engineer | Office - USA - CA - Headquarters | — | [Apply](https://idealjob.app/out/601cc9dc-e33c-4bc5-874e-7798434e9d79?ref=github_2026-Cyber-Security-Internship) |
+| <img src="https://cdn-images.himalayas.app/fv4n8xx8m9xoz0m3dtbwq3jig0ps" width="20" height="20" align="absmiddle"> Palo Alto Networks | Intern - Security Researcher - PhD Pipline | Office - USA - CA - Headquarters | — | [Apply](https://idealjob.app/out/66155587-1e2b-4c24-a998-b4d4dde3e713?ref=github_2026-Cyber-Security-Internship) |
