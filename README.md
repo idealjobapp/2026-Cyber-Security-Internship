@@ -1,12 +1,12 @@
 # <img src="https://idealjob.app/images/icon_idealjob.png" width="32" height="32" align="absmiddle"> 2026 Cyber Security Internship Roles
 
-Auto-updated daily from live job postings. 13 open roles as of 2026-10-08 UTC.
+Auto-updated daily from live job postings. 13 open roles as of 2026-10-09 UTC.
 
 Want these matched to your resume automatically? [Try IdealJob's Career Agent free](https://idealjob.app/jobs/entry-level?ref=github_2026-Cyber-Security-Internship).
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| <img src="https://img.logo.dev/robinhood.com?token=pk_efYn5k8yT5StJVLg1Tp6WQ" width="20" height="20" align="absmiddle"> Robinhood | Security Risk Management Intern (Summer 2027) | Menlo Park, CA | 2026-09-25 | [Apply](https://idealjob.app/out/fa43a59a-b593-4182-a3bd-858045fbfd18?ref=github_2026-Cyber-Security-Internship) |
+| <img src="https://img.logo.dev/robinhood.com?token=pk_efYn5k8yT5StJVLg1Tp6WQ" width="20" height="20" align="absmiddle"> Robinhood | Security Risk Management Intern (Summer 2027) | Menlo Park, CA | 2026-10-07 | [Apply](https://idealjob.app/out/fa43a59a-b593-4182-a3bd-858045fbfd18?ref=github_2026-Cyber-Security-Internship) |
 | <img src="https://cdn-images.himalayas.app/2yuz2telkvqyb0dbopo8j6w4jd16" width="20" height="20" align="absmiddle"> Cisco | Security Engineer I (Intern) - United States | RTP, North Carolina, US | 2026-09-17 | [Apply](https://idealjob.app/out/70b0ca87-ed4b-44e8-8201-01e5e428c860?ref=github_2026-Cyber-Security-Internship) |
 | <img src="https://img.logo.dev/tencent.com?token=pk_efYn5k8yT5StJVLg1Tp6WQ" width="20" height="20" align="absmiddle"> Tencent | Cyber Security Intern | United Kingdom-London | 2026-09-10 | [Apply](https://idealjob.app/out/3597680b-9b5a-412f-9870-97984a9cc5a1?ref=github_2026-Cyber-Security-Internship) |
 | <img src="https://cdn-images.himalayas.app/2yuz2telkvqyb0dbopo8j6w4jd16" width="20" height="20" align="absmiddle"> Cisco | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | 2026-09-04 | [Apply](https://idealjob.app/out/58ba793b-73cd-4347-9726-f8299fa069a9?ref=github_2026-Cyber-Security-Internship) |
